@@ -3,7 +3,7 @@ var express = require("express");
 var exphbs = require("express-handlebars");
 
 // * Express config
-var PORT = process.env.port || 8080;
+var PORT = process.env.PORT || 8080;
 var app = express();
 
 // * Middleware config
