@@ -4,7 +4,7 @@ $(document).ready(function() {
       nav: false,
       arrows: false,
       infinite: true,
-      speed: 1200,
+      speed: 1000,
       autoplaySpeed: 5000,
       slidesToShow: 1,
       adaptiveHeight: true,
