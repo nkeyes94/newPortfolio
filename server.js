@@ -1,7 +1,6 @@
 // * Importing required packages
 var express = require("express");
 var exphbs = require("express-handlebars");
-var mysql = require("mysql");
 
 // * Express config
 var PORT = process.env.port || 8080;
