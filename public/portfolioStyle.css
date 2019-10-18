@@ -176,3 +176,15 @@ transition: all 150ms ease;
   bottom: -0.4rem;
   left: 0;
 }
+
+#portfolio{
+  color: white;
+}
+
+#contact{
+  color: white
+}
+
+#about{
+  color: white
+}
